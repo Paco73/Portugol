@@ -8,9 +8,10 @@ var
    
 inicio
 
-      nome <- ("Ricardo")
+      escreva (" Digite seu nome  :" )
+      leia (nome)
 
-      escreva (nome)
+      escreva ("Prazer te conhecer ", nome)
 
 // Seção de Comandos 
 fimalgoritmo
